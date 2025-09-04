@@ -12,9 +12,6 @@ A comprehensive Blood Bank and Donor Management System (BBDMS) built with PHP an
 - [Tech Stack](#tech-stack)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Description
 This project provides a web-based platform for managing blood donors, recipients, and blood inventory. It includes admin and user interfaces for efficient management and interaction.
