@@ -88,9 +88,3 @@ This project provides a web-based platform for managing blood donors, recipients
 2.  **Access the User Interface:**
     - Browse to the root directory of the project to access the main user interface.
     - Register as a donor or recipient, or login if you already have an account.
-
-**Key Use Cases:**
-
-- **Find Blood Donors:** As a recipient, search for available blood donors.
-    1.  Go to `index-recipient.php` and login or sign up if not already.
-    2.  Then click Find A Donor
