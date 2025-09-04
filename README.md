@@ -1,4 +1,4 @@
-# bloodbank
+# Smart Blood Bank Management System
 
 [![GitHub Stars](https://img.shields.io/github/stars/Meet-301/bloodbank?style=social)](https://github.com/Meet-301/bloodbank)
 [![GitHub Forks](https://img.shields.io/github/forks/Meet-301/bloodbank?style=social)](https://github.com/Meet-301/bloodbank)
